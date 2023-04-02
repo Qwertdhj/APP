@@ -18,7 +18,9 @@ color: #FFFFFF;
 }
  #kinobd-buttons div
 {
-visibility: hidden; 
+padding:0;
+max-width: 0;
+margin:0;
  }
  #kinobd-iframe {
     max-width: 340px;
