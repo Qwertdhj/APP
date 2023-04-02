@@ -16,6 +16,10 @@ line-height: 38px;
 
 color: #FFFFFF;
 }
+ #kinobd-buttons div
+{
+visibility: hidden; 
+ }
  #kinobd-iframe {
     max-width: 340px;
     max-height: 195px;
