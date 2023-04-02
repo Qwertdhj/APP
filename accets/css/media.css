@@ -18,9 +18,8 @@ color: #FFFFFF;
 }
  #kinobd-buttons div
 {
-padding:0;
-max-width: 0;
-margin:0;
+position: absolute;
+left:200px;
  }
  #kinobd-iframe {
     max-width: 340px;
@@ -220,11 +219,12 @@ top: 1320px;
 .content_name
 {
 left: 25px;
+width:361px;
 }
 .content_name h1
 {
 font-size: 30px;
-width: 90%;
+width: 361px;
 }
 .content_movie
 {
